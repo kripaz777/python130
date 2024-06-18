@@ -1,0 +1,4 @@
+Apple 300 3 900
+Banana 100 3 300
+Coke 200 3 600
+Fanta 100 3 300
